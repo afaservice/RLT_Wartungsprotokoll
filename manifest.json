@@ -2,7 +2,7 @@
   "name": "RLT Wartungsprotokoll",
   "short_name": "RLT Wartung",
   "description": "Wartungsprotokoll für RLT-Anlagen nach VDMA 24168 – Air for All GmbH",
-  "start_url": "./RLT_Wartungsprotokoll_VDMA24168.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#002060",
