@@ -1,7 +1,7 @@
 // RLT Wartungsprotokoll – Service Worker
 const CACHE = 'rlt-v1';
 const FILES = [
-  './RLT_Wartungsprotokoll_VDMA24168.html',
+  './index.html',
   'https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css'
 ];
 
